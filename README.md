@@ -1,0 +1,1 @@
+A polyfill for `window.requestAnimationFrame()`.
