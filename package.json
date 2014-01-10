@@ -6,8 +6,6 @@
 	"dependencies": {
 	},
 	"main": "index.js",
-	"repository": {
-		"type": "git",
-		"url": "git://github.com/yr/requestAnimationFrame-polyfill.git"
-	}
+	"repository": "git://github.com/yr/requestAnimationFrame-polyfill.git",
+	"license": "MIT"
 }
