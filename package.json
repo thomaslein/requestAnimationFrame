@@ -1,11 +1,11 @@
 {
 	"name": "requestAnimationFrame-polyfill",
 	"description": "A window.requestAnimationFrame polyfill",
-	"version": "0.1.0",
-	"author": "Alexander Pope <alexander.pope@nrk.no>",
+	"version": "0.0.2",
+	"author": "Thomas Lein <thomaslein@gmail.com>",
 	"dependencies": {
 	},
 	"main": "index.js",
-	"repository": "git://github.com/yr/requestAnimationFrame-polyfill.git",
+	"repository": "git://github.com/thomaslein/requestAnimationFrame-polyfill.git",
 	"license": "MIT"
 }
