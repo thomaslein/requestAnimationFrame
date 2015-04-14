@@ -1,7 +1,7 @@
 {
 	"name": "requestAnimationFrame",
 	"description": "A window.requestAnimationFrame polyfill",
-	"version": "0.0.2",
+	"version": "0.1.0",
 	"author": "Thomas Lein <thomaslein@gmail.com>",
 	"dependencies": {
 	},
